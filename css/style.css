@@ -1,0 +1,17 @@
+.banner-section{
+  background-image: url(../images/bannerbg.jpg..);
+}
+
+.banner-section h3{
+    padding: 30px;
+    color: rgb(0 0 0 / 36%);
+}
+
+.btn-custom{
+    background-color: #29b566;
+    color: #fff;
+}
+
+.details1-section{
+  background-color: #000
+}
